@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e8a66b24-560e-429d-be7f-3da731dc737d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="czh &lt;czh@qq.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\LenovoSoftstore\apache\RepMaven\RepMaven" />
+        <option name="mavenHome" value="D:\LenovoSoftstore\Install\kaifa\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="D:\LenovoSoftstore\apache\apache-maven-3.2.2-bin\apache-maven-3.2.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2UMplPn9P1NWRMQ8Hbd6pVgVk1o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.czh.kaoshi" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\LenovoSoftstore\idea_project\Data3\src\main\java\com\czh\kaoshi" />
+      <recent name="D:\LenovoSoftstore\idea_project\Data3\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.UserRegistered_Kafka2">
+    <configuration name="Kafka_DataAnalize2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.czh.kaoshi.Kafka_DataAnalize2" />
+      <module name="Data3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.czh.kaoshi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRegistered" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.czh.kaoshi.UserRegistered" />
+      <module name="Data3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.czh.kaoshi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRegistered_Kafka" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.czh.kaoshi.UserRegistered_Kafka" />
+      <module name="Data3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.czh.kaoshi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRegistered_Kafka1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.czh.kaoshi.UserRegistered_Kafka1" />
+      <module name="Data3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.czh.kaoshi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRegistered_Kafka2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.czh.kaoshi.UserRegistered_Kafka2" />
+      <module name="Data3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.czh.kaoshi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UserRegistered_Kafka2" />
+        <item itemvalue="Application.UserRegistered_Kafka1" />
+        <item itemvalue="Application.UserRegistered_Kafka" />
+        <item itemvalue="Application.UserRegistered" />
+        <item itemvalue="Application.Kafka_DataAnalize2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8a66b24-560e-429d-be7f-3da731dc737d" name="Default Changelist" comment="" />
+      <created>1692759455315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692759455315</updated>
+      <workItem from="1692759456510" duration="21266000" />
+      <workItem from="1692788093768" duration="1810000" />
+      <workItem from="1692795252578" duration="1239000" />
+    </task>
+    <task id="LOCAL-00001" summary="kaoshi">
+      <created>1692795535956</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692795535956</updated>
+    </task>
+    <task id="LOCAL-00002" summary="kaoshi">
+      <created>1692795587576</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692795587576</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="kaoshi" />
+    <option name="LAST_COMMIT_MESSAGE" value="kaoshi" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="107" key="#Project_Structure" timestamp="1692762358716">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="496" y="107" key="#Project_Structure/0.0.1707.1019@0.0.1707.1019" timestamp="1692762358716" />
+    <state x="1146" y="295" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1692788511903">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="1146" y="295" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1692788511903" />
+    <state x="832" y="191" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1692762836567">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="832" y="191" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1692762836567" />
+    <state x="457" y="73" key="CommitChangelistDialog2" timestamp="1692795586919">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="457" y="73" key="CommitChangelistDialog2/0.0.1707.1019@0.0.1707.1019" timestamp="1692795586919" />
+    <state x="164" y="71" key="DiffContextDialog" timestamp="1692795622563">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="164" y="71" key="DiffContextDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1692795622563" />
+    <state x="634" y="265" key="FileChooserDialogImpl" timestamp="1692796269485">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="634" y="265" key="FileChooserDialogImpl/0.0.1707.1019@0.0.1707.1019" timestamp="1692796269485" />
+    <state width="1663" height="302" key="GridCell.Tab.0.bottom" timestamp="1692789918139">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1663" height="302" key="GridCell.Tab.0.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1692789918139" />
+    <state width="1663" height="302" key="GridCell.Tab.0.center" timestamp="1692789918139">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1663" height="302" key="GridCell.Tab.0.center/0.0.1707.1019@0.0.1707.1019" timestamp="1692789918139" />
+    <state width="1663" height="302" key="GridCell.Tab.0.left" timestamp="1692789918139">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1663" height="302" key="GridCell.Tab.0.left/0.0.1707.1019@0.0.1707.1019" timestamp="1692789918139" />
+    <state width="1663" height="302" key="GridCell.Tab.0.right" timestamp="1692789918139">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1663" height="302" key="GridCell.Tab.0.right/0.0.1707.1019@0.0.1707.1019" timestamp="1692789918139" />
+    <state width="1663" height="339" key="GridCell.Tab.1.bottom" timestamp="1692787989474">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1663" height="339" key="GridCell.Tab.1.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1692787989474" />
+    <state width="1663" height="339" key="GridCell.Tab.1.center" timestamp="1692787989474">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1663" height="339" key="GridCell.Tab.1.center/0.0.1707.1019@0.0.1707.1019" timestamp="1692787989474" />
+    <state width="1663" height="339" key="GridCell.Tab.1.left" timestamp="1692787989474">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1663" height="339" key="GridCell.Tab.1.left/0.0.1707.1019@0.0.1707.1019" timestamp="1692787989474" />
+    <state width="1663" height="339" key="GridCell.Tab.1.right" timestamp="1692787989474">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1663" height="339" key="GridCell.Tab.1.right/0.0.1707.1019@0.0.1707.1019" timestamp="1692787989474" />
+    <state x="355" y="154" key="SettingsEditor" timestamp="1692796499030">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="355" y="154" key="SettingsEditor/0.0.1707.1019@0.0.1707.1019" timestamp="1692796499030" />
+    <state x="446" y="229" key="Vcs.Push.Dialog.v2" timestamp="1692796211963">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="446" y="229" key="Vcs.Push.Dialog.v2/0.0.1707.1019@0.0.1707.1019" timestamp="1692796211963" />
+    <state x="851" y="248" key="run.anything.popup" timestamp="1692785953940">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="851" y="248" key="run.anything.popup/0.0.1707.1019@0.0.1707.1019" timestamp="1692785953940" />
+  </component>
+</project>
